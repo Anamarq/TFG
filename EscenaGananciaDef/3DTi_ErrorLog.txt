@@ -1,0 +1,6 @@
+ERROR #10 in UPCAnechoic.cpp (216): Bad size - The input buffer size is not correct or there is not a valid HRTF loded
+ERROR #10 in UPCAnechoic.cpp (216): Bad size - The input buffer size is not correct or there is not a valid HRTF loded
+ERROR #10 in UPCAnechoic.cpp (216): Bad size - The input buffer size is not correct or there is not a valid HRTF loded
+ERROR #10 in UPCAnechoic.cpp (216): Bad size - The input buffer size is not correct or there is not a valid HRTF loded
+ERROR #10 in UPCAnechoic.cpp (216): Bad size - The input buffer size is not correct or there is not a valid HRTF loded
+ERROR #10 in UPCAnechoic.cpp (216): Bad size - The input buffer size is not correct or there is not a valid HRTF loded

@@ -1,0 +1,49 @@
+Releasing audio plugin...
+Creating audio plugin...
+Creating audio plugin...
+CREATE: Sample rate set to 48000
+CREATE: Buffer size set to 1024
+CREATE: HRTF resampling step set to 15
+CREATE: Listener created successfully
+CREATE: Source created successfully
+--------------------------------------
+
+SET PARAMETER: Scale factor changed to 1
+1: SET PARAMETER: Source ID set to 1
+1: SET PARAMETER: Far distance LPF is Enabled
+1: SET PARAMETER: Distance attenuation is Enabled
+1: SET PARAMETER: Near Field ILD is Enabled
+SET PARAMETER: Listener head radius changed to 0.0875
+1: SET PARAMETER: Listener head radius changed to 0.0875
+SET PARAMETER: Custom ITD is Disabled
+1: SET PARAMETER: Custom ITD is Disabled
+LOAD NEAR FIELD ILD: ILD loaded from binary 3DTI file: C:/Users/Diana/AppData/LocalLow/DefaultCompany/EscenaGananciaDef/Data/HighQuality/ILD/NearFieldCompensation_ILD_48000.3dti-ild.3dti-ild
+SET PARAMETER: Near Field ILD Enabled
+1: LOAD NEAR FIELD ILD: ILD loaded from binary 3DTI file: C:/Users/Diana/AppData/LocalLow/DefaultCompany/EscenaGananciaDef/Data/HighQuality/ILD/NearFieldCompensation_ILD_48000.3dti-ild.3dti-ild
+1: SET PARAMETER: Near Field ILD Enabled
+LOAD HRTF: HRTF loaded from binary 3DTI file: C:/Users/Diana/AppData/LocalLow/DefaultCompany/EscenaGananciaDef/Data/HighQuality/HRTF/3DTI_HRTF_IRC1032_256s_48000Hz.3dti-hrtf.3dti-hrtf
+           HRIR length is 256
+           Sample rate is 48000
+           Buffer size is 1024
+1: LOAD HRTF: HRTF loaded from binary 3DTI file: C:/Users/Diana/AppData/LocalLow/DefaultCompany/EscenaGananciaDef/Data/HighQuality/HRTF/3DTI_HRTF_IRC1032_256s_48000Hz.3dti-hrtf.3dti-hrtf
+1:            HRIR length is 256
+1:            Sample rate is 48000
+1:            Buffer size is 1024
+SET PARAMETER: High Quality spatialization mode is enabled
+1: SET PARAMETER: High Quality spatialization mode is enabled
+1: SET PARAMETER: Run-time HRTF Interpolation switched ON
+1: SET PARAMETER: HRTF resampling step set to (degrees) 15
+1: SET PARAMETER: HA Directionality switched OFF for Left ear
+1: SET PARAMETER: HA Directionality switched OFF for Right ear
+1: SET PARAMETER: HA Directionality for Left ear set to (dB) 15
+1: SET PARAMETER: HA Directionality for Right ear set to (dB) 15
+1: SET PARAMETER: Limiter switched ON
+1: SET PARAMETER: Listener head radius changed to 0.0875
+1: SET PARAMETER: Custom ITD is Disabled
+Releasing audio plugin...
+1: SET PARAMETER: Custom ITD is Disabled
+1: SET PARAMETER: Listener head radius changed to 0.0875
+1: SET PARAMETER: Custom ITD is Disabled
+1: SET PARAMETER: High Quality spatialization mode is enabled
+1: SET PARAMETER: Listener head radius changed to 3.97887
+1: SET PARAMETER: Custom ITD is Enabled
